@@ -79,6 +79,3 @@ Contributions are welcome! Please submit any bugs or feature requests through th
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-```
-
-Modify the sections as needed to better fit your actual setup and repository structure. If you have additional configuration or setup steps, those should be included in the respective sections.
