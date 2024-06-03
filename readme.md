@@ -4,6 +4,7 @@
 This TypeScript library leverages ethers.js v6 to monitor new blocks on the Ethereum blockchain and identify new smart contract creations, specifically targeting ERC-20 token contracts. It provides some basic information about each detected contract, such as the contract's name, symbol, and total supply, adjusted for decimals.
 This code is meant for developers starting out on web3 development for ethereum and looking for a way to efficiently stream new contract creations.
 
+Services are for hire, contact me at https://t.me/bilixsoftware or info@bilix.io
 ## Features
 
 - Real-time monitoring of Ethereum blocks.
